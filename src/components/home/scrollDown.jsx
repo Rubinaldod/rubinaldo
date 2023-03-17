@@ -27,7 +27,7 @@ const ScrollDown = () =>{
                   style={{
                     fill: 'none',
                     stroke:'var(--title-color)',
-                    strokeWidth: 20,
+                    strokeWidth: "20px",
                 }}
                 ></path>
                 <path
@@ -40,6 +40,11 @@ const ScrollDown = () =>{
                 }}
                 ></path>
               </svg>
+
+              <span className="home_scroll_name">
+                Scroll down
+              </span>
+              <i class="uil uil-arrow-down home_scroll_arrow"></i>
             </a>  
         </div>
     )

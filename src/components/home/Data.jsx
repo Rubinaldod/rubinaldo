@@ -1,4 +1,5 @@
 import React from "react";
+import './Home.css';
 
 const Data =()=>{
     return(
@@ -6,8 +7,8 @@ const Data =()=>{
         <h1 className="home_title">
         Rubinaldo Domingos
         <svg
-                  width="36"
-                  height="36"
+                  // width="36"
+                  // height="36"
                   viewBox="0 0 48 48"
                   fill="none"
                   xmlns="http://www.w3.org/2000/svg"
