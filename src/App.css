@@ -168,6 +168,8 @@ img{
   align-items: center;
 }
 
+
+
   /* for medium screen */
 
   @media screen and (max-width:992px) {
@@ -175,6 +177,16 @@ img{
     margin-left: var(--mb-1-5);
     margin-right: var(--mb-1-5);
   }
+  .button{
+    padding: 1rem 1.75rem; 
+    
+  }
+  .button__icon{
+    width: 22px;
+    height: 22px;
+
+  }
+ 
   }
  
   @media screen and (max-width: 350px) {
@@ -183,3 +195,12 @@ img{
       margin-right: var(--mb-1);
     }
      }
+
+     @media screen and (max-width: 768px) {
+      :root{
+        --big-font-size:2.25rem; 
+      }
+      .section{
+       padding: 2rem 0 4rem;
+      }
+       }
