@@ -1,4 +1,7 @@
 import React from "react";
+import './skills.css';
+import FrontEnd from "./frontend";
+import Backend from "./backend";
 
 const Skills =() => {
     return (
@@ -9,7 +12,8 @@ My technical level
 </span>
 
 <div className="skills_container container grid">
-
+<FrontEnd />
+<Backend /> 
 </div>
 </section>
     );
