@@ -1,7 +1,7 @@
 import React from "react"; 
 import './about.css';
 import AboutImg from '../../assets/about.jpg';
-import CV from '../../assets/John-Cv.pdf';
+// import CV from '';
 import Info from "./info";
 
 const About =() =>{
@@ -18,7 +18,7 @@ const About =() =>{
                     <p className="about_description">
                         I am a Developer, I create apps and webapps, I have years of experiences and worked with different types of clients in different categories
                     </p>
-                    <a download="" href={CV} className="button button_flex">Download CV
+                    <a download="" href='#' className="button button_flex">Download CV
                     
                     <svg
                 class="button__icon"
