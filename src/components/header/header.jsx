@@ -42,6 +42,12 @@ const Header =()=>{
                        Portifolio
                         </a>
                     </li>
+
+                    <li className="nav_item"><a href="#qualifications" className="nav_link">
+                        <i className="uil uil-scenery nav_icon"></i>
+                       Qualification
+                        </a>
+                    </li>
                     
                     <li className="nav_item"><a href="#skills" className="nav_link">
                         <i className="uil uil-message nav_icon"></i>
