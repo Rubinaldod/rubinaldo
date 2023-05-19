@@ -11,7 +11,7 @@ const FrontEnd = () =>{
                 <i className="bx bx-badge-check"></i>
                 <div>
                     <h3 className="skills_name">HTML</h3>
-                    <spam className="skills_level">Advanced</spam>
+                    {/* <spam className="skills_level">Advanced</spam> */}
                 </div>
             </div>
 
@@ -19,7 +19,7 @@ const FrontEnd = () =>{
                 <i className="bx bx-badge-check"></i>
                 <div>
                     <h3 className="skills_name">CSS</h3>
-                    <spam className="skills_level">Advanced</spam>
+                    {/* <spam className="skills_level">Advanced</spam> */}
                 </div>
             </div>
 
@@ -28,7 +28,7 @@ const FrontEnd = () =>{
                 <i className="bx bx-badge-check"></i>
                 <div>
                     <h3 className="skills_name">Javascript</h3>
-                    <spam className="skills_level">Advanced</spam>
+                    {/* <spam className="skills_level">Advanced</spam> */}
                 </div>
             </div>
 
@@ -44,7 +44,7 @@ const FrontEnd = () =>{
                 <i className="bx bx-badge-check"></i>
                 <div>
                     <h3 className="skills_name">React</h3>
-                    <spam className="skills_level">Intermediate</spam>
+                    {/* <spam className="skills_level">Intermediate</spam> */}
                 </div>
             </div>
 
@@ -52,7 +52,7 @@ const FrontEnd = () =>{
                 <i className="bx bx-badge-check"></i>
                 <div>
                     <h3 className="skills_name">Bootstrap</h3>
-                    <spam className="skills_level">Intermediate</spam>
+                    {/* <spam className="skills_level">Intermediate</spam> */}
                 </div>
             </div>
 
@@ -61,7 +61,7 @@ const FrontEnd = () =>{
                 <i className="bx bx-badge-check"></i>
                 <div>
                     <h3 className="skills_name">Wordpress</h3>
-                    <spam className="skills_level">Advanced</spam>
+                    {/* <spam className="skills_level">Advanced</spam> */}
                 </div>
             </div>
 

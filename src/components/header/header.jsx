@@ -37,11 +37,7 @@ const Header =()=>{
                         </a>
                     </li>
                     
-                    <li className="nav_item"><a href="#portifolio" className="nav_link">
-                        <i className="uil uil-scenery nav_icon"></i>
-                       Portifolio
-                        </a>
-                    </li>
+                 
 
                     <li className="nav_item"><a href="#qualifications" className="nav_link">
                         <i className="uil uil-scenery nav_icon"></i>
@@ -49,7 +45,7 @@ const Header =()=>{
                         </a>
                     </li>
                     
-                    <li className="nav_item"><a href="#skills" className="nav_link">
+                    <li className="nav_item"><a href="#contact" className="nav_link">
                         <i className="uil uil-message nav_icon"></i>
                        Contact
                         </a>

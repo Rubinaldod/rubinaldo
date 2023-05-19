@@ -17,7 +17,7 @@ const Services = () =>{
 
 
 {/* ============= */}
-            <div className="services_content">
+            {/* <div className="services_content">
                 <div>
                     <i className="uil uil-apps services_icon"> </i>
                     <h3 className="services_title">Mobile development</h3>
@@ -67,12 +67,12 @@ const Services = () =>{
                         </ul>
                     </div>
                 </div>
-            </div>
+            </div> */}
 
 
 {/* ========================== */}
 
-<div className="services_content">
+{/* <div className="services_content">
                 <div>
                     <i className="uil uil-web-grid services_icon"> </i>
                     <h3 className="services_title"> Web development</h3>
@@ -122,14 +122,14 @@ const Services = () =>{
                         </ul>
                     </div>
                 </div>
-            </div>
+            </div> */}
 
 {/* ===================== */}
          
             <div className="services_content">
                 <div>
                     <i className="uil uil-desktop services_icon"> </i>
-                    <h3 className="services_title">E-Services</h3>
+                    <h3 className="services_title">Click to open Services </h3>
                 </div>
 
                 <span className="services_button" onClick={()=> toggleTab(3)}>View More 

@@ -43,7 +43,7 @@ const Qualifications = () => {
           <div className='"qualification_content qualification_content-active"'>
             <div className="qualification_data">
               <div>
-                <h3 className="qualification_title">Computer Science</h3>
+                <h3 className="qualification_title">Bachelor of Science Honors in Computer Science</h3>
                 <span className="qualification_subtitle">
                   Africa University
                 </span>
@@ -69,13 +69,13 @@ const Qualifications = () => {
                 <span className="qualification_line"></span>
               </div>
               <div>
-                <h3 className="qualification_title">Computer Science</h3>
+                <h3 className="qualification_title">IT Manager</h3>
                 <span className="qualification_subtitle">
-                  Africa University
+                  Platinaline
                 </span>
                 <div className="qualification_calendar">
                   <i className="uil uil-calendar-alt"></i>
-                  2019 - 2023
+                  2010 - current
                 </div>
               </div>
             </div>

@@ -8,7 +8,7 @@ const Skills =() => {
 <section className="section skills" id="skills">
 <h2 className="section_title">Skills</h2>
 <span className="section_subtitle">
-My technical level
+My technical skills (fullstack)
 </span>
 
 <div className="skills_container container grid">

@@ -60,7 +60,7 @@ const Data =()=>{
             Web & Mobile Developer
         </h3>
         <p className="home_description">
-            I am a creative Developer based in Luanda, Angola. and I like to make ideas come to live.
+            I am a creative (fullstack) Developer based in Luanda, Angola. and I like to make ideas come to live.
         </p>
         <a href="#contact" className="button button--flex ">
             Say Hello

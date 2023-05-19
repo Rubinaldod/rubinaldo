@@ -11,7 +11,7 @@ const Backend = () =>{
                 <i className="bx bx-badge-check"></i>
                 <div>
                     <h3 className="skills_name">Flutter</h3>
-                    <spam className="skills_level">Basic</spam>
+                    {/* <spam className="skills_level">Basic</spam> */}
                 </div>
             </div>
 
@@ -19,7 +19,7 @@ const Backend = () =>{
                 <i className="bx bx-badge-check"></i>
                 <div>
                     <h3 className="skills_name">React Native</h3>
-                    <spam className="skills_level">Intermediate</spam>
+                    {/* <spam className="skills_level">Intermediate</spam> */}
                 </div>
             </div>
 
@@ -28,7 +28,15 @@ const Backend = () =>{
                 <i className="bx bx-badge-check"></i>
                 <div>
                     <h3 className="skills_name">FireBase</h3>
-                    <span className="skills_level">Basic</span>
+                    {/* <span className="skills_level">Basic</span> */}
+                </div>
+            </div>
+
+            <div className="skills_data">
+                <i className="bx bx-badge-check"></i>
+                <div>
+                    <h3 className="skills_name">Nodejs</h3>
+                    {/* <span className="skills_level">Basic</span> */}
                 </div>
             </div>
 

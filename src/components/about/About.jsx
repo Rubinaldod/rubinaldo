@@ -16,7 +16,7 @@ const About =() =>{
                     <Info />
 
                     <p className="about_description">
-                        I am a Developer, I create apps and webapps, I have years of experiences and worked with different types of clients in different categories
+                        I am a Developer  (fullstack), I create apps and webapps, I have years of experiences and worked with different types of clients in different categories
                     </p>
                     <a download="" href='#' className="button button_flex">Download CV
                     
